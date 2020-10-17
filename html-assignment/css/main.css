@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+color: darkslategray;
+font-size: 18px;
+}
+/* 
+This is a css comment.
+Shortcut is ctrl, / 
+*/
+header, footer{
+    text-decoration: underline;
+  }
+
+  header, footer{
+      background-color: lightcoral;
+  }
+  .my-class{
+      color: royalblue;
+  }
+
+  #my-image{
+      box-shadow: black 0px 0px 2px 1px
+      
+      
+  }
+  h1, h2, h3{text-decoration: underline;}
+
+  ul li{
+      color: lightcoral;
+      list-style: square;
+  }
+  .cake-lie{
+      color: lime;
+  }
+  #main-text{
+      background-color: orchid;
+  }
+
+  ul li:nth-child(3) {
+      background: cadetblue;}
+      
+      ul li:nth-child(1) {
+          background-color: crimson;
+      }
+      a[href] {
+        color: green;
+        text-decoration: none;
+        background-color: dimgray;
+        border:cornflowerblue;
+      }
+      a:hover {
+          background-color: crimson;
+      }
